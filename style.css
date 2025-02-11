@@ -24,6 +24,10 @@ body {
     height: 100vh;
 }
 
+p   {
+    text-align: justify;
+}
+
 h1 {
     font-family: "Marck Script", serif;
     text-align: center;
